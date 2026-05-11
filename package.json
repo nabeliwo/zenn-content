@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "engines": {
-    "node": "22.10.0"
-  },
-  "packageManager": "pnpm@9.14.2",
   "scripts": {
     "article": "zenn new:article",
     "book": "zenn new:book",
@@ -24,6 +20,6 @@
   },
   "homepage": "https://github.com/nabeliwo/zenn-content#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.158"
+    "zenn-cli": "^0.4.7"
   }
 }
