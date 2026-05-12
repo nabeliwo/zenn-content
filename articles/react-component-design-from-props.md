@@ -1,9 +1,9 @@
 ---
-title: "props の改善から始めて漸進的に考える React コンポーネント設計論"
+title: "props は値の集合ではない — UI の状態を宣言する React コンポーネント設計"
 emoji: "⚛️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["typescript", "react"]
-published: false
+published: true
 ---
 
 突然ですが、こんな React コンポーネントの props を見たとき、あなたはどう思いますか？
